@@ -9,6 +9,9 @@ Codebasics Resume Project Challange No. 2 : https://tinyurl.com/RemumeProject2
 
 Live Project Dashboard Link : https://tinyurl.com/SupplyChainAnalyticsProject
 
+Project Insights Link : insights link : https://tinyurl.com/ProjectInsightsLink
+
+
 ➜ About Company:
 
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad, and Vadodara.
