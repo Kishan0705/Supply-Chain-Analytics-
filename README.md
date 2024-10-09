@@ -1,44 +1,35 @@
-# Supply-Chain-Analytics-
-Power BI Project 
+# Supply Chain Analytics Project
 
-Excited to Showcase My New Supply Chain Analytics Project Using Power BI! 🚀
+## Overview
+This project showcases a **Supply Chain Analytics** solution developed using **Power BI** to improve delivery performance metrics for AtliQ Mart, a growing FMCG manufacturer based in Gujarat, India. The aim was to address service issues related to contract renewals by key customers.
 
-🔸This Project was the part of Resume Project Challenge No.2 at Codebasics.
+## Project Links
+- **Live Project Dashboard**: [View Here](https://tinyurl.com/SupplyChainAnalyticsProject)
+- **Project Insights**: [View Insights](https://tinyurl.com/ProjectInsightsLink)
+- **Codebasics Resume Project Challenge**: [Challenge Details](https://tinyurl.com/RemumeProject2)
 
-Codebasics Resume Project Challange No. 2 : https://tinyurl.com/RemumeProject2
+## Problem Statement
+AtliQ Mart faced challenges with poor delivery service levels, leading to dissatisfaction among key customers and issues with contract renewals. The need was to track and improve metrics related to on-time and in-full deliveries.
 
-Live Project Dashboard Link : https://tinyurl.com/SupplyChainAnalyticsProject
+## Goals
+- Measure **On-Time Delivery (OT) %**, **In-Full Delivery (IF) %**, and **On-Time in Full (OTIF) %** on a daily basis against target service levels for each customer.
 
-Project Insights Link : insights link : https://tinyurl.com/ProjectInsightsLink
+## Key Metrics Used
+- **OT %**: On-Time Delivery Percentage
+- **IF %**: In-Full Delivery Percentage
+- **OTIF %**: On-Time and In-Full Delivery Percentage
+- **LIFR**: Line Fill Rate
+- **VOFR**: Volume Fill Rate
 
+## Project Highlights
+- Developed **5 Power BI dashboards** to visualize daily delivery service levels using key metrics like OT %, IF %, and OTIF %.
+- Identified systemic issues in the delivery process, particularly for key customers, and flagged these for immediate action.
+- Provided actionable insights that could improve delivery service levels, helping retain customer contracts and enhance satisfaction.
 
-➜ About Company:
-
-AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad, and Vadodara.
-
-📌Problem Statement:
-
-AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue by tracking the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
-
-🎯 Goal:
-
-The Analytics team need to measure 'On-time delivery (OT) %', 'In-full delivery (IF) %', and 'OnTime in Full (OTIF) %' daily against the target service levels for each customer.
-
-➡️ Important Supply Chain Metrics Used:
-
-▪️ OT % - On-time delivery percentage  
-▪️ IF % - In Full delivery percentage  
-▪️ OTIF % - On time and In Full delivery percentage  
-▪️ LIFR - Line Fill Rate  
-▪️ VOFR - Volume Fill Rate
-
-💡 Knowledge Gain from this Project:
-
-🔹 Gained an understanding of business and operations in the supply chain domain.  
-🔹 Utilized Bookmarks and Toggle Button feature effectively to change Visual  
-🔹 Effectively utilized bookmarks and toggle button features to change visuals for multiple purposes.
-
-
-✅ Feel free to share your thoughts and ideas to help refine and optimize this project's outcomes.
-
-Stay tuned for more projects like this......✌️
+## Skills Utilized
+- **Microsoft Power BI**
+- **DAX**
+- **Power Query**
+- **Data Modeling**
+- **Data Visualization**
+- **Business Intelligence (BI)**
